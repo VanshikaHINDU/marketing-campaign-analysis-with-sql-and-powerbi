@@ -19,7 +19,11 @@ This dashboard visualizes customer marketing performance and campaign responses 
 ---
 
 ## 🖼️ Dashboard Preview
+
+This folder contains the Power BI dashboard for the Customer Marketing Analysis project.
+
 ![Power BI Dashboard](screenshot.png)
+
 
 ---
 
