@@ -68,7 +68,8 @@ The goal is to provide insights into:
 - Spending behavior patterns
 - Top spenders overview  
 
-📸 *Screenshots of dashboards will be added here.*  
+📸 
+
 
 ---
 
