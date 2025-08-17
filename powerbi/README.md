@@ -2,6 +2,8 @@
 
 This dashboard visualizes customer marketing performance and campaign responses using the cleaned dataset.
 
+![Power BI Dashboard](screenshot.png)
+
 ---
 
 ## 📂 Files
@@ -18,14 +20,6 @@ This dashboard visualizes customer marketing performance and campaign responses 
 
 ---
 
-## 🖼️ Dashboard Preview
-
-This folder contains the Power BI dashboard for the Customer Marketing Analysis project.
-
-![Power BI Dashboard](screenshot.png)
-
-
----
 
 ## ▶️ How to Use
 1. Open `customer_marketing visuals.pbix` in **Power BI Desktop**.  
