@@ -68,7 +68,7 @@ The goal is to provide insights into:
 - Spending behavior patterns
 - Top spenders overview  
 
-📸 
+📸  [Power BI Visuals](./powerbi/README.md)
 
 
 ---

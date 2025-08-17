@@ -1,14 +1,17 @@
 # 📊 Power BI Dashboard
 
-This dashboard visualizes customer marketing performance and campaign responses using the cleaned dataset.
-
-![Power BI Dashboard](screenshot.png)
+This dashboard visualizes customer marketing performance and campaign response rates based on the cleaned dataset.
 
 ---
 
 ## 📂 Files
 - `customer_marketing visuals.pbix` → Interactive Power BI dashboard  
-- `screenshot.png` → Preview of the dashboard
+- `screenshot.png` → Preview of the dashboard  
+
+---
+
+## 📸 Dashboard Preview
+![Power BI Dashboard](./screenshot.png)
 
 ---
 
@@ -19,7 +22,6 @@ This dashboard visualizes customer marketing performance and campaign responses 
 - **Recency & Engagement**: Analyzes customer activity and purchase recency  
 
 ---
-
 
 ## ▶️ How to Use
 1. Open `customer_marketing visuals.pbix` in **Power BI Desktop**.  
