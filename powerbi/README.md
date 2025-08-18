@@ -12,7 +12,7 @@ This folder contains interactive Power BI dashboards for analyzing **customer ma
 
 ## 🖼 Dashboard Preview  
 Here’s a quick look at the dashboard:  
-![Power BI Dashboard](https://raw.githubusercontent.com/VanshikaHINDU/marketing-campaign-analysis-with-sql-and-powerbi/main/powerbi/screenshot.png)
+![Power BI Dashboard]()
 
 
 ---
