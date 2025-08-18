@@ -12,7 +12,8 @@ This folder contains interactive Power BI dashboards for analyzing **customer ma
 
 ## 🖼 Dashboard Preview  
 Here’s a quick look at the dashboard:  
-![Power BI Dashboard]()
+![Power BI Dashboard](screenshot.png)
+
 
 
 ---
