@@ -5,15 +5,6 @@
 
 
 
-## 📖 Table of Contents
-- [Business Insights](#-business-insights)
-- [Technical Stack](#-technical-stack)  
-- [Project Structure](#-project-structure)
-- [Key Findings](#-key-findings)
-- [Setup](#-setup)
-- [Contact](#-contact)
-
-
 # **Marketing Campaign Performance Analysis**
 
 ## **📋 Project Overview**
