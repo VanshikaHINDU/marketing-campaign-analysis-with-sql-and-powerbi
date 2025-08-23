@@ -78,8 +78,3 @@ marketing-campaign-performance-analysis/
 - [ ] Campaign totals match in SQL and Excel
 - [ ] All validation files show consistent results
 
----
-
-**Maintenance**: Update Excel validation files when SQL queries change  
-**Accuracy**: Cross-verify all calculations across SQL and Excel  
-**Organization**: Keep all validation files in `/excel/` directory
