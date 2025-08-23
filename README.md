@@ -1,3 +1,19 @@
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+## 📖 Table of Contents
+- [Business Insights](#-business-insights)
+- [Technical Stack](#-technical-stack)  
+- [Project Structure](#-project-structure)
+- [Key Findings](#-key-findings)
+- [Setup](#-setup)
+- [Contact](#-contact)
+
+
 # **Marketing Campaign Performance Analysis**
 
 ## **📋 Project Overview**
